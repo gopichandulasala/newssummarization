@@ -114,4 +114,3 @@ bt =tk.Button(root, text='Summarize', command=summarize)
 bt.pack()
 
 root.mainloop()
-view rawnews_summarize.py hosted with ❤ by GitHub
